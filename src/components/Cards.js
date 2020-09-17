@@ -24,6 +24,24 @@ function Cards() {
                         />
 
 
+                    
+                    </ul>
+                    <ul className="cards__items">
+                        <CardItem
+                            src='images/out.jpg'
+                            text="Explore your limits inside nature"
+                            label='Adventure'
+                            path='/Services'
+                        />
+
+                        <CardItem
+                            src='images/95.jpg'
+                            text="Test test "
+                            label='Adventure'
+                            path='/Services'
+                        />
+
+
                         <CardItem
                             src='images/cross.jpeg'
                             text="Explore your limits inside nature"
