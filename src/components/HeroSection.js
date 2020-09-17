@@ -6,8 +6,8 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-          
-             {/* <video src='/video/video-iron.mp4' autoPlay loop muted /> */}
+
+            {/* <video src='/video/video-iron.mp4' autoPlay loop muted /> */}
             <h1>GO HARDER</h1>
             <p>What are you waiting for ?</p>
             <div className="hero-btns">
@@ -18,10 +18,10 @@ function HeroSection() {
                     className='btns'
                     buttonStyle='btn--primary'
                     buttonSize='btn--large'>
-                    WATCH TRAILLER <i className="far fa-play-circle"></i>
+                    WATCH TRAILER <i className="far fa-play-circle"></i>
                 </Button>
             </div>
-            
+
         </div>
     )
 }
